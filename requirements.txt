@@ -1,0 +1,8 @@
+torch
+transformers
+accelerate
+bitsandbytes
+datasets
+trl
+peft
+scikit-learn
